@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[42]:
 
 
 import pandas as pd
